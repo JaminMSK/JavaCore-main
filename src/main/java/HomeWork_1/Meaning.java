@@ -1,10 +1,10 @@
-package HomeWork1;
+package HomeWork_1;
 
-import HomeWork1.animals.Mole;
-import HomeWork1.animals.Moose;
-import HomeWork1.animals.Ram;
-import HomeWork1.animals.Wolverine;
-import HomeWork1.obstacle.*;
+import HomeWork_1.animals.Mole;
+import HomeWork_1.animals.Moose;
+import HomeWork_1.animals.Ram;
+import HomeWork_1.animals.Wolverine;
+import HomeWork_1.obstacle.*;
 
 /* Сделал Vladislav Torgashev
 22.03.2022

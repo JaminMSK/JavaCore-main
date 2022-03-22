@@ -1,6 +1,6 @@
-package HomeWork1.animals;
+package HomeWork_1.animals;
 
-import HomeWork1.Participant;
+import HomeWork_1.Participant;
 
 /* Сделал Vladislav Torgashev
 22.03.2022

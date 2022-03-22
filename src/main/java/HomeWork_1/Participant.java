@@ -1,4 +1,4 @@
-package HomeWork1;
+package HomeWork_1;
 
 /* Сделал Vladislav Torgashev
 22.03.2022
