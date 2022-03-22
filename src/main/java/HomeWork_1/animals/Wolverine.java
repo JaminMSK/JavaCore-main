@@ -1,4 +1,4 @@
-package HomeWork1.animals;
+package HomeWork_1.animals;
 
 public class Wolverine extends Animals{
 
