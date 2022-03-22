@@ -1,5 +1,9 @@
 package HomeWork1;
 
+/* Сделал Vladislav Torgashev
+22.03.2022
+ */
+
 public interface Participant {
 
     String getName();

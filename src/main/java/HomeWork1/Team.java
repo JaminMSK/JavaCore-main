@@ -1,5 +1,9 @@
 package HomeWork1;
 
+/* Сделал Vladislav Torgashev
+22.03.2022
+ */
+
 import HomeWork1.animals.Mole;
 import HomeWork1.animals.Moose;
 import HomeWork1.animals.Ram;

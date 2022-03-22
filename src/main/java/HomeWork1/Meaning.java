@@ -6,6 +6,10 @@ import HomeWork1.animals.Ram;
 import HomeWork1.animals.Wolverine;
 import HomeWork1.obstacle.*;
 
+/* Сделал Vladislav Torgashev
+22.03.2022
+ */
+
 public class Meaning {
 
     public static void main(String[] args) {

@@ -2,6 +2,10 @@ package HomeWork1.obstacle;
 
 import HomeWork1.Team;
 
+/* Сделал Vladislav Torgashev
+22.03.2022
+ */
+
 public class Course {
     private Obstacle obstacles[];
 

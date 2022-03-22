@@ -2,6 +2,10 @@ package HomeWork1.animals;
 
 import HomeWork1.Participant;
 
+/* Сделал Vladislav Torgashev
+22.03.2022
+ */
+
 public abstract class Animals implements Participant {
 
     private String name;
