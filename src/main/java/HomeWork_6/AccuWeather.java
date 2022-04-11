@@ -1,6 +1,6 @@
 package HomeWork_6;
 
-/* Сделал Vladislav Torgashev
+/* Сделал Vladislav Torgashev-1
 11.04.2022
  */
 
